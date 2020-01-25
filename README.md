@@ -24,7 +24,7 @@
 
 ## 💻 Project
 
-The DevsMap is an application for scheduling time in barber shops. 
+The DevMaps is an application to search for developers around you for technologies.
 
 ## :rocket: Technology
 
