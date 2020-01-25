@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber" title="#delicinha" src="frontend/src/assets/logo-purple.svg" width="100px" />
+    <img alt="DevsMap" title="#delicinha" src="https://github.com/MateusAquino/SemanaOmnistack10/blob/master/static/omnistack.png" width="100px" />
 </h1>
 
 <h4 align="center">
@@ -17,14 +17,14 @@
 <p align="center">
   <img 
        alt="Frontend" 
-       src="https://github.com/DanielNeris/portifolio/blob/master/src/assets/projects/gobarber.jpg" 
+       src="https://github.com/DanielNeris/portifolio/blob/master/src/assets/projects/devmaps.jpg" 
        width="100%"
   />
 </p>
 
 ## 💻 Project
 
-The GoBarber is an application for scheduling time in barber shops. 
+The DevsMap is an application for scheduling time in barber shops. 
 
 ## :rocket: Technology
 
